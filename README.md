@@ -16,12 +16,11 @@ This repository contains a professional-grade automation suite designed for **SA
 * **Version Control:** Git/GitHub
 * **CI/CD:** GitHub Actions
 
+---
 ## About the Author
-* QA Professional with a Bachelor’s in Information Technology.
-
-* Expertise: Medical Billing Systems, EMR Workflows, and ISO Certification Compliance.
-
-* Focus: Transitioning manual testing excellence into scalable Automation Engineering.
+**QA Professional** with a Bachelor’s in **Information Technology**. 
+* **Expertise:** Medical Billing Systems, EMR Workflows, ISO Certification Compliance.
+* **Focus:** Transitioning manual testing excellence into scalable Automation Engineering.
 
 ## Project Structure
 ```text
